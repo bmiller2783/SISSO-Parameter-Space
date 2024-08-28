@@ -1,7 +1,5 @@
 # Generation of Nonlinear Parameter Space
-The sure independence screening and sparsifying operator (SISSO) algorithm was published in 2018 by Ouyang et. al. This algorithm inspired the development of a "SISSO-ish" algorithm for application of nonlinear parameters to linear modeling techniques.
-
-## The case for nonlinear parameters
+The sure independence screening and sparsifying operator (SISSO) algorithm was published in 2018 by Ouyang et. al. This algorithm inspired this "SISSO-ish" code for application of nonlinear parameters to linear modeling techniques.
 
 ## What does this code do?
 
