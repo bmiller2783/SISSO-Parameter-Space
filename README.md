@@ -3,17 +3,17 @@ The sure independence screening and sparsifying operator (SISSO) algorithm was p
 
 ## What does this code do?
 ### 1. Data Cleaning
-   1.1. Drop non-numerical columns and any designated to skip
+      1.1. Drop non-numerical columns and any designated to skip
    
-   1.2. Remove colinear parameters from input data set
+      1.2. Remove colinear parameters from input data set
 ### 2. Nonlinear Parameter Generation
-   2.1. Perform algebraic transformations on data set
+      2.1. Perform algebraic transformations on data set
    
-   2.2. Evaluate transformed parameters for p-value improvment from parent parameters
+      2.2. Evaluate transformed parameters for p-value improvment from parent parameters
    
-   2.3. Save evaluated parameters and concatenate to original data set.
+      2.3. Save evaluated parameters and concatenate to original data set.
    
-   2.4. Repeat from 2.1. for iterations (iter=int)
+      2.4. Repeat from 2.1. for iterations (iter=int)
 ### 3. Export Transformed and Original Parameters
 
 ## Example Usage
